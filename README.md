@@ -10,7 +10,7 @@ In the table mode we can view the data in an organised numerical way which shows
 
 
 ![Demo](misc/TrimmedUI.gif)
-![Video](https://youtu.be/78uGi6dlw_c)
+`https://youtu.be/78uGi6dlw_c)`
 
 <>
 
